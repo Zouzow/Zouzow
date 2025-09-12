@@ -11,6 +11,7 @@ J'essaie actuellement d'apprendre beaucoup de choses sur l'informatique et d'aut
 Je suis une personne curieuse et, un débutant complet sur Github, alors n'hesitez pas à venir me parler!
 
 Pour **me contacter**, utilisez mon mail étudiant juste ici : enzo.bermond@etu.unice.fr
+
 Merci d'avoir lu !
 Bonne journée ;)
 
