@@ -3,7 +3,7 @@
 Plus à propos de moi :
 - 🇫🇷 Français
 - 🧍‍♂️ Il/Lui
-- 🍃 Étudiant de 18 ans
+- 🍃 Étudiant de 19 ans
 - 💻 Études d'informatique
 - ✨ Adore apprendre!
 
@@ -22,7 +22,7 @@ Bonne journée ;)
 More about me :
 - 🇫🇷 French
 - 🧍‍♂️ He/Him
-- 🍃 18 yo student
+- 🍃 19 yo student
 - 💻 Studying Informatic
 - ✨ Love to learn!
 
